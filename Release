@@ -1,8 +1,25 @@
 Origin: TeelekkungTheDev's Repo
-Label: TeelekkungTheDev
+Label: TeelekkungTheDev's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Here is where is my Fav tweak are
+Date: Mon, 22 July 2019 00:00:00 +0000
+MD5Sum:
+1234f7723f8ca5fb274518ef08979e01              505 Packages
+6806b3f9d9512a591a423ca8c5f29ce1              405 Packages.bz2
+6bdfc23488a25a7a480eed3dc4328cf4             1393 Release
+SHA1:
+b3d44d6242897a1ecb6fd913ac06f69b117ea375              505 Packages
+e1b4952025cc69fecd401503231b687145a6b6a5              405 Packages.bz2
+132b85b0deee2b02302134f19fe516b47766e552             1393 Release
+SHA256:
+824c447ce018a69b281589a97acc03f18e3cc32f1480ffab640efc91be1f009c              505 Packages
+d85350d57186286308def6868d7cbbb0353d5ee46456063d713367c7a3286e22              405 Packages.bz2
+1fa4a863e8f23a60e11e3f4c09691d07f9de6403ba0d55e566ddda8d46cc2768             1393 Release
+SHA512:
+ee0d7ffa96d4857e5cdeff5d3f901da363bd2dee77d828fe143a71045e58e04349b078e20f47494dd5f31c86dbd8ce03c64ddf9f89b563babf41896b51981026              505 Packages
+038e8f87f487a93649237d1407c1e506fb25515071989bbf37b9aebbe4db333cc4736d966b02587fab6d767fd05cf99b8f49835352a7113365109333e5de66b5              405 Packages.bz2
+cef5df48210a773f30264f19ef00b0c756fd05b8cbab38a347e8e8e6807895c786e61b8e886cf201d82ad051cf879aed37b8192e5e646892703204028072c451             1393 Release
