@@ -48,14 +48,14 @@ Architecture: iphoneos-arm
 Maintainer: TeelekkungTheDev
 Depends: wallpaperloader
 Filename: debs/com.teelekkungthedev.catalina-wallpaper.deb
-Size: 1872344
-MD5sum: 0e5afc8fcda4a5a231834ed922eead14
-SHA1: b0e4685286a18fe56048750fbbf8982f15e59f2a
-SHA256: 0c763c25f59184b526a9597bceed5d4fde2df3bce6ec5e82516eface7589fbf9
+Size: 1872868
+MD5sum: baeb134a092599e8c0de88adc8bccbf8
+SHA1: 4e4f3ec831d3d6b9093f5fd1f8520b1d7eaf4799
+SHA256: 05644d86a537bf6f9739abf48eff868cf7490939e68d63e576e8aa04682cb7ff
 Section: Wallpaper
 Description: Catalina Wallpapers optimize for iPhone
 Author: TeelekkungTheDev
-Name: iOS 14 Wallpapers
+Name: Catalina4ios Wallpapers
 
 Package: com.TeelekkungTheDev.iPhone-SE1-transparent
 Version: 1.0
