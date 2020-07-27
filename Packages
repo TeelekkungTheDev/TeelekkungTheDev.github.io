@@ -12,18 +12,78 @@ Description: A Cydia Eraser replacement. The icon is made by Dennis Bednarz.
 Author: pwn20wnd & coolstarorg
 Name: Remover
 
+Package: com.TeelekkungTheDev.Cartoon-network-fan-art-se
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TeelekkungTheDev
+Depends: wallpaperloader
+Filename: debs/com.teelekkungthedev.cartoon-network-fan-art-se.deb
+Size: 1510168
+MD5sum: 5ba06a60b81222ab9249c3d413042cd0
+SHA1: 32f4c5651adad95011b770d0060567434841202d
+SHA256: 525205fa61a99d5a9365053af74e36d3677c34c43137eb785eb34889bd28bc78
+Section: Wallpaper
+Description: Cartoon-network fan-art from Thai group For Credit will be later
+Author: TeelekkungTheDev
+Name: Cartoon-networkfan-artforSE1Wallpapers
+
 Package: com.TeelekkungTheDev.WWDC-2020
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: TeelekkungTheDev
 Depends: wallpaperloader
 Filename: debs/com.teelekkungthedev.wwdc-2020.deb
-Size: 11444380
-MD5sum: 2c510422c0eaa9c349ea3aeefdfa5f00
-SHA1: 779fb0c984b84681e48fa4ba566efffff68a79ef
-SHA256: 340a099fe6860bf381a67eac57a9ec1c91789b328c1148c087d8d524020dfac9
+Size: 5124688
+MD5sum: 0f2e5cc7d3aac22512585b8fcfdda78b
+SHA1: f516241070c5bbe7107966794d30117931861af8
+SHA256: bde2177636b813c31baade725170244b4944bb04ea80ecb2f8b2bf2f797a265e
 Section: Wallpaper
 Description: iOS 14 Wallpapers Port From iOS 14
 Author: TeelekkungTheDev
 Name: iOS 14 Wallpapers
+
+Package: com.TeelekkungTheDev.Catalina-Wallpaper
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TeelekkungTheDev
+Depends: wallpaperloader
+Filename: debs/com.teelekkungthedev.catalina-wallpaper.deb
+Size: 1872344
+MD5sum: 0e5afc8fcda4a5a231834ed922eead14
+SHA1: b0e4685286a18fe56048750fbbf8982f15e59f2a
+SHA256: 0c763c25f59184b526a9597bceed5d4fde2df3bce6ec5e82516eface7589fbf9
+Section: Wallpaper
+Description: Catalina Wallpapers optimize for iPhone
+Author: TeelekkungTheDev
+Name: iOS 14 Wallpapers
+
+Package: com.TeelekkungTheDev.iPhone-SE1-transparent
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TeelekkungTheDev
+Depends: wallpaperloader
+Filename: debs/com.teelekkungthedev.iphone-se1-transparent.deb
+Size: 983052
+MD5sum: fa20437fbdc0c28d4a663853566233fd
+SHA1: 7f5490f7039e0127245145226cffa18adbdaacb3
+SHA256: ba6a535a88af4f7bea4a16be357c5f3799c6a994daa6360a5e764460a3d8fde7
+Section: Wallpaper
+Description: transparent iPhone se1 Wallpapers
+Author: TeelekkungTheDev
+Name: iPhone-SE1 transparent Wallpapers
+
+Package: com.TeelekkungTheDev.Beach-Hero-SE1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TeelekkungTheDev
+Depends: wallpaperloader
+Filename: debs/com.teelekkungthedev.beach-hero-se1.deb
+Size: 1960580
+MD5sum: ee57a681069c4c97bc049e201843a0c2
+SHA1: 873f72b2436e9c50e8605c8456e4c079ee94219d
+SHA256: 590baafe88b263b0131e249316ca0cc97f7a83814f3af756df88a991ad2e6916
+Section: Wallpaper
+Description: Beach_Hero Wallpapers with darkmode for se1 only
+Author: TeelekkungTheDev
+Name: Beach_Hero with dark Wallpapers
 
