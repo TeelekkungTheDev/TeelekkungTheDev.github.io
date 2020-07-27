@@ -1,0 +1,10 @@
+
+for a
+do	
+	echo "   " >> Packages
+	echo"$(dpkg-scanpackages $a)" >> Packages
+	echo "   " >> Packages
+	bzip2 -v --best Packages
+done
+
+

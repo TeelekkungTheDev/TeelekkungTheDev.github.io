@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>iSn0w</name>
+			<url>https://twitter.com/iSn0we</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Edit this text too!</name>
+ 			<url>paste a URL here</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>

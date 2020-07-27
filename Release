@@ -1,8 +1,8 @@
-Origin: TeelekkungTheDev's Repo
-Label: TeelekkungTheDev's Repo
+Origin: TeelekkungTheDev's repo
+Label: TeelekkungTheDev's repo
+Codename: ios
 Suite: stable
 Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
+Architecture: iphoneos-arm
 Components: main
-Description: Here is where is my Fav tweak are
+(B[m Description: Here is where is my Fav tweak are
