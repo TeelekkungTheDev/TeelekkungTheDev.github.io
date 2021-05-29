@@ -1,0 +1,43 @@
+{
+    "bundle_id": "",
+    "name": "",
+    "version": "",
+    "tagline": "",
+    "homepage": "https://teelekkungthedev.github.io",
+    "developer": {
+        "name": "",
+        "email": ""
+    },
+    "maintainer": {
+        "name": "Sahakiyat",
+        "email": "sahakiyat8680@gmal.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/sahakiyat"
+        },
+        {
+            "name": "Website",
+            "url": "https://teelekkungthedev.github.io"
+        }
+    ],
+    "section": "",
+    "pre_dependencies": "",
+    "dependencies": "",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+
+    "tint": "#9ef7c1",
+    "works_min": "13.0",
+    "works_max": "15.0",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "",
+            "changes": ""
+        }
+    ]
+}
