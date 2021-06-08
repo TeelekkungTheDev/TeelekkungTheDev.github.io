@@ -1,0 +1,41 @@
+{
+    "bundle_id": "com.sahakiyat.nfcwriterx",
+    "name": "NFCWriter XS (C)",
+    "version": "3.2-78+debug",
+    "tagline": "NFCWriter XS for iOS 11/12/13",
+    "homepage": "https://teelekkungthedev.github.io",
+    "developer": {
+        "name": "Elias Limneos",
+        "email": "limneoselias@gmail.com"
+    },
+    "maintainer": {
+        "name": "Sahakiyat",
+        "email": "sahakiyat8680@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/sahakiyat"
+        },
+        {
+            "name": "Website",
+            "url": "https://teelekkungthedev.github.io"
+        }
+    ],
+    "section": "Utilities",
+    "pre_dependencies": "",
+    "dependencies": "firmware (>= 11.0), mobilesubstrate, net.limneos.libbulletin",
+    "conflicts": "net.limneos.nfcwriterx",
+
+    "tint": "#9ef7c1",
+    "works_min": "11.0",
+    "works_max": "14.4",
+    "featured": "true",
+    "source": "https://limneos.net/nfcwriterx/",
+    "changelog": [
+        {
+            "version": "3.2-78+debug",
+            "changes": "Just hijack from origi and lifpa"
+        }
+    ]
+}
