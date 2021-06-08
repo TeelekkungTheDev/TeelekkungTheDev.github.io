@@ -1,0 +1,39 @@
+{
+    "bundle_id": "com.laxus.iosgodsiapcracker",
+    "name": "iOSGods iAP Cracker",
+    "version": "1.0-2+debug",
+    "tagline": "Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices",
+    "homepage": "https://teelekkungthedev.github.io",
+    "developer": {
+        "name": "Laxus",
+        "email": ""
+    },
+    "maintainer": {
+        "name": "Sahakiyat",
+        "email": "sahakiyat8680@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/sahakiyat"
+        },
+        {
+            "name": "Website",
+            "url": "https://teelekkungthedev.github.io"
+        }
+    ],
+    "section": "Tweaks",
+    "dependencies": "mobilesubstrate",
+
+    "tint": "#9ef7c1",
+    "works_min": "11.0",
+    "works_max": "14.4",
+    "featured": "true",
+    "source": "https://iosgods.com/topic/60193-iosgods-iap-cracker-iap-tweak-modifier-with-a12-a13-supported/?tab=comments#comment-1822119",
+    "changelog": [
+        {
+            "version": "1.0-2+debug",
+            "changes": "Don't know other version. Hijack from iosgods"
+        }
+    ]
+}
