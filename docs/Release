@@ -1,0 +1,12 @@
+Origin: TeelekkungTheDev's Repo
+Label: TeelekkungTheDev's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Here is where are my mess laying
+
+SHA256:
+ 1e3345bf6c27cb9eb3bf3f555f6f5d74615b284be6dd25aa67b7b1607ef13600 976 Packages.bz2
+ bf1f3b00f91a14e09ce0f302663a6ae325493730bc57e7f9cead595935db3558 892 Packages.xz
